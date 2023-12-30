@@ -5,8 +5,7 @@ Welcome to the Weather App! This simple React application allows users to check 
 ## Features
 
 - **Current Weather:** View the current temperature, humidity, and wind speed for a given location.
-- **Responsive Design:** The app is designed to work well on various devices, including desktops, tablets, and mobile phones.
-- **Loading Skeleton:** An elegant loading skeleton is displayed while fetching weather data.
+- **IP Location:** Automatically fetches and displays weather information based on the user's IP location when they visit the website.
 
 ## Demo
 
